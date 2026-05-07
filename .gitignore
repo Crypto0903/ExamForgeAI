@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Uploaded files
+uploads/
+
+# Generated files
+generated/
+question_paper.docx
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log

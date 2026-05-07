@@ -1,0 +1,8 @@
+Flask
+groq
+python-docx
+numpy
+scikit-learn
+python-dotenv
+
+pip install -r requirements.txt
